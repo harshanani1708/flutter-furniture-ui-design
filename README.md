@@ -1,10 +1,7 @@
 # HomePage
+![Screenshot_1607095794](https://user-images.githubusercontent.com/75485524/101231637-89ed6280-36d2-11eb-8095-d3451b61ed9e.png)
 
-![Screenshot (66)](https://user-images.githubusercontent.com/75485524/101175907-c5a11180-366b-11eb-90a4-1f00b8286f91.png)
-
-# DetailsPage
-
-![Screenshot (65)](https://user-images.githubusercontent.com/75485524/101175902-c5087b00-366b-11eb-89bf-c33c9e5ce4c7.png)
+![Screenshot_1607095813](https://user-images.githubusercontent.com/75485524/101231638-8bb72600-36d2-11eb-8ff0-d8bd74b5af47.png)
 
 
 
